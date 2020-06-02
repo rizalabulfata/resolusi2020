@@ -2,3 +2,4 @@ Resolusi 2020
 - Advanced at Flutter
 - Advanced at Python Framework for Web (Flask or Django)
 - learn new programming language
+- more deep learn for networking
